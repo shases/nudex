@@ -10,32 +10,32 @@
   "icons": [
     {
       "sizes": "120x120",
-      "src": "nudex/favicon/apple-touch-icon-120x120.png"
+      "src": "https://cdn.jsdelivr.net/gh/shases/nudex/favicon/apple-touch-icon-120x120.png"
     },
     {
       "sizes": "152x152",
-      "src": "nudex/favicon/apple-touch-icon-152x152.png"
+      "src": "https://cdn.jsdelivr.net/gh/shases/nudex/favicon/apple-touch-icon-152x152.png"
     },
     {
       "sizes": "180x180",
-      "src": "nudex/favicon/apple-touch-icon-180x180.png"
+      "src": "https://cdn.jsdelivr.net/gh/shases/nudex/favicon/apple-touch-icon-180x180.png"
     },
     {
       "sizes": "60x60",
-      "src": "nudex/favicon/apple-touch-icon-60x60.png"
+      "src": "https://cdn.jsdelivr.net/gh/shases/nudex/favicon/apple-touch-icon-60x60.png"
     },
     {
-      "src": "nudex/favicon/app-icon-192.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/nudex/favicon/app-icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "nudex/favicon/app-icon-512.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/nudex/favicon/app-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "nudex/favicon/maskable_icon.png",
+      "src": "https://cdn.jsdelivr.net/gh/shases/nudex/favicon/maskable_icon.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
