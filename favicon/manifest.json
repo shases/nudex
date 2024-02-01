@@ -2,7 +2,7 @@
   "id": "/",
   "name": "nudex",
   "short_name": "nudex",
-  "description": "Aprende a crear páginas web o blogs, y otros recursos para desarrolladores sobre HTML, CSS, Javascript, Blogger, Wordpress y más.",
+  "description": "Plantilla de galería de fotos para Blogger, con temática para adultos.",
   "start_url": "https://nudex-demo.blogspot.com/",
   "display": "standalone",
   "theme_color": "#0e8ef4",
